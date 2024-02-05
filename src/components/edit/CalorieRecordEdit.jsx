@@ -6,7 +6,6 @@ function CalorieRecordEdit() {
 return (
     <Container>
         <Form>
-            <h1>hello world</h1>
             <Form.Group className="mb-3" controlId="calories">
                 <Form.Label>calories</Form.Label>
                 <Form.Control type="number" placeholder="type your Calories" />
